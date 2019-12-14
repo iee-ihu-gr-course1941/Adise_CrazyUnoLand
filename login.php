@@ -1,6 +1,6 @@
 <?php
 require "header.php";
-include_once "include/login.inc.php";
+include_once "include/LoginAction.inc.php";
 usrLogin();
 ?>
 <div class="container">
@@ -28,6 +28,7 @@ usrLogin();
 	    <div class="form-group">
 	      <input type="submit" name="buttonSub" class="form-control btn btn-success">
 	    </div>
+              <a href="singup.php">SingUp</a>
 	  </div>
 	</div>
 	

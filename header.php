@@ -7,6 +7,7 @@
     <title></title>
     
   </head>
-  <body>
+        <body style="background-image: url('./img/UnoBack.jpg');
+background-size: contain;">
     <header>
     </header>
