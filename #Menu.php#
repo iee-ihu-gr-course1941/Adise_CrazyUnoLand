@@ -1,0 +1,8 @@
+<?php
+    require "header.php";
+
+?>
+ <input type="submit" name="startgame" class="form-control btn btn-success">
+<?php
+require "footer.php";
+?>

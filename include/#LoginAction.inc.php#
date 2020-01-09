@@ -27,7 +27,8 @@ function usrLogin(){
                  unset($_SESSION["username"]);
              }
              session_destroy();             //             sesion_destroy();*/
-            //$result= $conn->prepare($query);
+            //$result= $con            		echo "<script>window.location.href = 'Menu.php';</script>";
+n->prepare($query);
             //$res = $result->get_result();
 		}
 		else{
